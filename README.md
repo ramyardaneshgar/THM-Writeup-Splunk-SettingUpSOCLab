@@ -1,5 +1,5 @@
 # Splunk-SettingUpSOCLab
-Splunk: Setting Up a SOC Lab - Installing, configuring, and integrating log sources on Linux and Windows environments for centralized monitoring.
+Splunk: Setting Up a SOC - Installing, configuring, and integrating log sources on Linux and Windows environments for centralized monitoring.
 
 **Developed by:** Ramyar Daneshgar  
 
